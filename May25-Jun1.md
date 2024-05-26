@@ -5,7 +5,7 @@
 [提出コード](https://atcoder.jp/contests/abc355/submissions?f.Task=&f.LanguageName=&f.Status=&f.User=dye8128)
 
 - ABCD4完
-- パフォ1422
+- パフォ1422(最高パフォ)
 - レート943 -> 1002 (+59)
 - 30分強で4完
 - Eが難しく、A-Dの速解き勝負だった
@@ -32,3 +32,12 @@
 
 - $L, R$ をソートし、尺取り法で区間の重なりを調べる
 - 方針が決まるのが早く、正味10分程度で解くことができた
+
+## AtCoder Problems Recommendation
+
+### ABC218 C
+
+[提出コード](https://atcoder.jp/contests/abc218/submissions/53911353)
+
+- Sを回転する関数を定義
+- `#` を左上にずらして一致判定
